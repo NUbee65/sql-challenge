@@ -68,4 +68,4 @@ The effort was divided into the following tasks:
     * psycopg2_example.ipynb - this was critical to understanding how to import the EmployeeSQL database (employeesql.sql)
     * Brooke Cooper employee_sql - Backup (1).ipynb -- self-explanatory
 
-5. I then put together this README file (README_BrookeCooper_EmployeeSQL.md) which I hope adequately maps out the contexts of the Employee SQL folder.
+5. I then put together this README file (README_BrookeCooper_EmployeeSQL.md) which I hope adequately maps out the contents of the Employee SQL folder.
